@@ -1,0 +1,30 @@
+img {
+  height: 200px;
+  width: auto;
+  margin-left: 200px;
+}
+
+div {
+  border-bottom: solid 2px;
+  border-color: lightgrey;
+  text-align: left;
+  width: 600px;
+  margin-left: 400px;
+}
+
+h2 {
+  text-align: justify;
+  text-transform: uppercase;
+}
+
+h3 {
+  text-align: left;
+}
+
+p {
+  margin-left: 30px;
+}
+
+.job {
+  margin-left: 0;
+}
